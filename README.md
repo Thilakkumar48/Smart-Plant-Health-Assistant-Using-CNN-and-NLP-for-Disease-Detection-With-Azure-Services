@@ -1,0 +1,1 @@
+# Smart-Plant-Health-Assistant-Using-CNN-and-NLP-for-Disease-Detection-With-Azure-Services
