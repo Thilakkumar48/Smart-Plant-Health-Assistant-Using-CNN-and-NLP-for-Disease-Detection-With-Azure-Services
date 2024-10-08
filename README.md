@@ -91,10 +91,6 @@ You will need to set up your Azure services and obtain the necessary API keys.
 - Enhancing the model's disease classification by training on more images.
 - Adding more detailed information on the predicted diseases and suggestions for treatment.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ### Author
